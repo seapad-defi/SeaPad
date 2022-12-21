@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suipad
+- 👋 Hi, I’m @seapad (@suipad previously)
 - 👀 I’m interested in building the decentralized launchpad ecosystem on #SUI network 
 - 💞️ I’m looking to collaborate on partnership and business expansion
 - 📫 Reach me at suilaunchpad@gmail.com, thank you
